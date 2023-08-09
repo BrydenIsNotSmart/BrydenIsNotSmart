@@ -1,4 +1,8 @@
-## Hi there 👋
-### My name's Bryden, and I'm not that smart
+# Hi there 👋
+## My name's Bryden, and I'm not that smart
 
-![Bio](https://ebio.gg/@bryden)
+### I'm currently working on:
+Strafe.chat
+RevoltBots.org
+
+
