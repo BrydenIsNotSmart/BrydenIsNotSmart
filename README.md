@@ -3,7 +3,7 @@
 
 ### I'm currently working on:
 Strafe.chat, 
-RevoltBots.org
+Streamy.gg
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O2MEDMO)
 
